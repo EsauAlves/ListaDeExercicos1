@@ -21,9 +21,9 @@ public class Exemplo {
 
 Questão 6:
 
-1- O parâmetro **String** args deve ser uma array **(String[] args)**.
-2- O **while (contador <= 5)** não possuía um incremento **contador++**, fazendo com que a condição fosse sempre verdadeira gerando um loop infinito.
-3- Erro de sintaxe, **System.out.println()** está sem ponto e vírgula no final.
+- O parâmetro **String** args deve ser uma array **(String[] args)**.
+- O **while (contador <= 5)** não possuía um incremento **contador++**, fazendo com que a condição fosse sempre verdadeira gerando um loop infinito.
+- Erro de sintaxe, **System.out.println()** está sem ponto e vírgula no final.
 
 código corrigido:
 ```java
